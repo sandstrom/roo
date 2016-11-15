@@ -1,3 +1,5 @@
+**❇︎❇︎ The canonical repo for this gem is now https://github.com/roo-rb/roo ❇︎❇︎**
+
 # README for Roo
 
 Roo is available here and on Rubyforge. You can install the official release with 'gem install roo' or refer to the installation instructions below for the latest development gem. 
